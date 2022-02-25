@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\bin\Debug\net5.0\Firm.exe
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\bin\Debug\net5.0\Firm.deps.json
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\bin\Debug\net5.0\Firm.runtimeconfig.json
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\bin\Debug\net5.0\Firm.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\bin\Debug\net5.0\Firm.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\bin\Debug\net5.0\ref\Firm.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\bin\Debug\net5.0\Firm.pdb
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\obj\Debug\net5.0\Firm.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\obj\Debug\net5.0\Firm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\obj\Debug\net5.0\Firm.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\obj\Debug\net5.0\Firm.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\obj\Debug\net5.0\Firm.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\obj\Debug\net5.0\Firm.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\obj\Debug\net5.0\ref\Firm.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\obj\Debug\net5.0\Firm.pdb
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\Firm\obj\Debug\net5.0\Firm.genruntimeconfig.cache

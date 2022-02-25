@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\bin\Debug\net5.0\PipesInPool.exe
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\bin\Debug\net5.0\PipesInPool.deps.json
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\bin\Debug\net5.0\PipesInPool.runtimeconfig.json
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\bin\Debug\net5.0\PipesInPool.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\bin\Debug\net5.0\PipesInPool.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\bin\Debug\net5.0\ref\PipesInPool.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\bin\Debug\net5.0\PipesInPool.pdb
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\obj\Debug\net5.0\PipesInPool.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\obj\Debug\net5.0\PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\obj\Debug\net5.0\PipesInPool.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\obj\Debug\net5.0\PipesInPool.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\obj\Debug\net5.0\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\obj\Debug\net5.0\PipesInPool.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\obj\Debug\net5.0\ref\PipesInPool.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\obj\Debug\net5.0\PipesInPool.pdb
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\PipesInPool\obj\Debug\net5.0\PipesInPool.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net5.0\03.Harvest.exe
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net5.0\03.Harvest.deps.json
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net5.0\03.Harvest.runtimeconfig.json
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net5.0\03.Harvest.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net5.0\03.Harvest.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net5.0\ref\03.Harvest.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\bin\Debug\net5.0\03.Harvest.pdb
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net5.0\03.Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net5.0\03.Harvest.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net5.0\03.Harvest.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net5.0\03.Harvest.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net5.0\03.Harvest.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net5.0\ref\03.Harvest.dll
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net5.0\03.Harvest.pdb
+C:\Users\Marina\source\repos\ConditionalStatements-MoreExercises\03.Harvest\obj\Debug\net5.0\03.Harvest.genruntimeconfig.cache
